@@ -5,3 +5,4 @@ This is the TF-IDF Formulas
 
 This is the Cosine similarity for Hierarchical Clustering
 ![dendo_diagram](https://github.com/Ameya-Deshmukh26/Recommendation_System/assets/77532501/2aa005e4-7e62-42e6-ad1e-b5b1050cbb89)
+
